@@ -1,4 +1,3 @@
-!pip install torch torchvision torchaudio
 import streamlit as st
 import torch
 import torch.optim as optim
